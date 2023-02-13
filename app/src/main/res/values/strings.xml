@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Constraint Practice</string>
+    <string name="txtBtnBack">Back</string>
+    <string name="txtBtnNext">Next</string>
+    <string name="txtViewTitle">An Example of Constraint</string>
+    <string name="imgAlt">Mountains</string>
+    <string-array name="txtSpnPlanetsArray">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
